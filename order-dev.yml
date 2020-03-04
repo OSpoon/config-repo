@@ -1,4 +1,4 @@
-env: dev
+env: test
 server:
   port: 9090
 spring:
