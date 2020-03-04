@@ -1,4 +1,4 @@
-env: dev114
+env: dev
 server:
   port: 9090
 spring:
