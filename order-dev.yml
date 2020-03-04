@@ -1,0 +1,13 @@
+env: dev
+server:
+  port: 9090
+spring:
+  application:
+    name: Order
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 12345678
+    url: jdbc:mysql://localhost:3306/springcloud?useUnicode=true&characterEncoding=UTF-8
+    jpa:
+      show-sql: true
