@@ -3,7 +3,7 @@ server:
   port: 9090
 spring:
   application:
-    name: Order
+    name: order
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
